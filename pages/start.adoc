@@ -1,0 +1,6 @@
+= Les présentations
+:imagesdir: assets/default/images
+
+== !
+
+image::yann-black.png[]

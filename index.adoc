@@ -1,0 +1,20 @@
+[.entrypoint]
+= Les Tech Lead : "des raleurs" ?
+:source-highlighter: highlightjs
+:revealjs_theme: black
+:revealjs_progress: true
+:revealjs_history: true
+:customcss: ./styles/etechday/stylesheets/etechday.css
+:revealjsdir: ./node_modules/reveal.js
+:revealjs_defaultTiming: 40
+
+include::pages/start.adoc[leveloffset=+1]
+include::pages/chronique.adoc[leveloffset=+1]
+include::pages/roles.adoc[leveloffset=+1]
+include::pages/problems.adoc[leveloffset=+1]
+include::pages/tools.adoc[leveloffset=+1]
+include::pages/another-way.adoc[leveloffset=+1]
+include::pages/a-mark.adoc[leveloffset=+1]
+include::pages/valorisation.adoc[leveloffset=+1]
+include::pages/end.adoc[leveloffset=+1]
+
