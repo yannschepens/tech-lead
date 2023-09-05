@@ -56,4 +56,6 @@
 * Mettre ce qu'il faut en place (doc, formation, remonté d'info, etc), pour que la réalisation dans son ensemble réponde à ce besoin
 * Et chaque projet/équipe/client/époque est différente
 * Adaptation
+
+* Transition : mais tout ceci ne va pas avec quelques éléments problèmatiques
 ====
