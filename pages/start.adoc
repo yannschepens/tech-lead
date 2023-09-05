@@ -4,3 +4,33 @@
 == !
 
 image::yann-black.png[]
+
+[NOTE.speaker]
+====
+* Prez classique
+* Puis : Je suis tech lead depuis qlq années
+J'entends souvent que : slide suivante
+====
+
+== Je rale
+
+[NOTE.speaker]
+====
+C'est vrai
+
+* le cas pour tous les tech lead (p-e importe comment on les appelle) ?
+* en tout cas, mes collègues ralent aussi.
+* Donc : slide suivante
+====
+
+== Pourquoi ?
+
+[NOTE.speaker]
+====
+* Me suis posé la question.
+* Les raisons ? Est-ce normal ?
+* Sous-nous des gens normaux ?
+* Pourquoi on s'inflige ça ?
+====
+
+== Quelques pistes
