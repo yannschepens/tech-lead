@@ -1,9 +1,92 @@
 = Ses problèmes
 
+[NOTE.speaker]
+====
+* Ahhhh, il aime parler de ces problèmes et de se plaindre
+* Y'a toujours un truc qui ne vas pas
+* Et vu ce qu'on a vu avant, oui, il a des problèmes
+====
+
 == Le temps
+
+[NOTE.speaker]
+====
+* Notre problème préféré, et notre excuse aussi de temps
+* quarante douze truc à gérer en parallèle
+* les réunions
+* des urgences (rarement vraies)
+* encore des réunions
+* des interruptions fréquentes
+* et j'allais oublier un truc hyper ultra important : les réunions
+* => Impression d'urgence constante
+* Stress, irritabilité (plus chez certains que d'autres d'ailleurs)
+* Même si une bonne organisation aide, il y a toujours la nécessité d'aider les autres qui cause des retards
+
+* Même si, on ne va se mentir, on arrive toujours à trouver du temps
+* .... pour aller boire un coup
+
+* Transition : malgré ce "manque" de temps, un autre souci s'impose au tech lead
+====
 
 == L'oracle
 
+[NOTE.speaker]
+====
+* Le savoir : on doit TOUT savoir
+* Que ce soit pour une question ou un problème technique, nous devons tout savoir
+* C'est normal, le tech lead est le dernier ressort technique et celui qui prend les grandes décisions
+* Même si c'est pour renvoyer vers un confrère, "Je ne sais pas, débrouille toi", n'est pas acceptable
+* Ex.: Projet web, lib de multithreading peu connu : process fantome qui impact les perf.
+** Personne pour m'épauler, donc analyse approfondi de la lib pour comprendre et trouver une solution
+** Equipe de dev trop jeune pour trouver, client ben c'est pas son job, hebergeur pareil, donc tu dois trouver une solution, pas le choix
+
+
+
+* Transition : ce qui m'amène à un autre point
+====
+
 == Liberté VS Stabilité
 
+[NOTE.speaker]
+====
+* Le choix entre du fun et récent ; et du connu et stable
+* Soit je pars sur un truc qui me fait vibrer mais qui jeune et potentiellement long à prendre en main
+* Soit je pars un truc connu et stable mais que j'ai vu 40 fois
+
+* Equilibre délicat entre "innover" et rester sur ses appuie.
+* Interessant, mais ça met un peu de pression
+
+* Transition : En parlant de choix technique
+====
+
 == Responsable des fondations
+
+[NOTE.speaker]
+====
+* Quand il endosse la casquette d'architecte
+* Première brique technique, schémas, outils, approche, un truc kiffant quoi
+* On part d'une page blanche, état de l'art, (vous sentez les frissons du plaisir là ?)
+
+* Une fois que c'est fait, il fournit ça à son équipe.
+* Et leur faire confiance (Dev, CP, hebergeur, etc.)
+* Et là, c'est le drame, ils cassent tout, comprenne kedal, bref, ce sont tes petits frères et soeurs qui cassent tes légos
+* Avec l'experience :
+** C'est un peu de notre faute, celle du client, celle du dev, c'est normal en fait
+** Mais bordel que c'est frustrant de voir nos jolies perspectives se retrouver avec des verrues de partout et ressembler à une vieille sorcière
+** Et quand les équipes sortent du chemin prévu, oui, ça fait raler
+
+* Transition : en parlant des équipes
+====
+
+== Maintenir des standards elevés
+
+[NOTE.speaker]
+====
+* Le tech lead est reconnu/défini pour ses compétences
+* Niveau d'exigence/compétence elevé qu'il attend de son équipe
+* Défi parfois difficile pour les équipes
+* ce qui fait raler le tech lead quand ce n'est pas suffisant
+* D'autant plus, qu'avec le temps :
+** Idéaliser les bonnes pratiques de dev
+** Perd le contact avec le dev
+====
