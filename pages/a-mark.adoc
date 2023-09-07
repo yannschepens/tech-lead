@@ -1,7 +1,60 @@
 = Raler, sa marque de fabrique
 
+[NOTE.speaker]
+====
+* Le Tech lead, il rale
+* Un indicateur
+* Son rôle d'inspecteur des travaux finis entraine aussi ce comportement
+
+* Transition : mais on ne va pas se mentir
+====
+
+== Ego trip
+
+[NOTE.speaker]
+====
+* Chez les plus jeunes, on repère plus facilement les talents quand ils se pleignent.
+* Pour se plaindre (sans se faire envoyer dans les cordes), il faut avoir une certaines assurances, ce qui est nécessaire pour un tech lead
+* Mise en avant
+* Mise en valeur
+* Un bon profil qu'on entend pas, on ne le voit pas
+* Jeune talent, raler ! bordel !
+====
+
 == Il adore ça
+
+[NOTE.speaker]
+====
+* Il prefère raler en premiere instance et être constructif après
+* Ca ne sert à rien, mais ça fait du bien
+* Transition : ça correspond pas mal à
+
+====
+
+== " Ce n’est pas normal qu’on en soit encore à faire ça alors que je pourrais faire mieux ! "
 
 == Son plaisir coupable
 
+[NOTE.speaker]
+====
+* Il adore ça
+* Ca le rassure ? peut-être
+* Plaisir coupable ? peut-être
+* Dédramatiser la situation ? peut-être aussi
+* C'est aussi ce qu'on attend de lui d'une certaine manière
+* Un tech lead qui ne rale ? c'est pas normal ou il n'est pas assez bon.
+* C'est un caricature qui donne ajd un côté comique du tech lead (bon, pas toujours, j'espère)
+* Transition : ce qui m'amène à ma conclusion
+====
+
 == Humanisation du Tech Lead
+
+[NOTE.speaker]
+====
+* Le tech lead est un être humain
+* Ce côté raleur (quand on est habitué), apporte un côté touchant du tech lead, même si ça peut être stressant pour les plus jeunes
+* "ce n'est pas comme ça qu'il faut faire", un classique
+* Vous préférez quoi ? Un audit froid sur papier (pour les plus vieux) ou un PDF
+* Ou un techos comme vous, qui va raler pour vous dire que vous auriez pu mieux faire ?
+* A vous de voir !
+====
