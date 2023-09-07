@@ -1,11 +1,72 @@
 = Les outils du tech lead
 
+[NOTE.speaker]
+====
+* De la frustration, de la pression, du ralage en règle
+* Mais un metier passionnant autant techniquement d'humainement
+* Quels outils peut utiliser le tech lead pour attenuer tout ça ?
+====
+
 == NON !
+
+[NOTE.speaker]
+====
+* Premiere chose, dire non
+* Remettre en question la pertinence des demandes/méthodes, il a l'experience qui parle
+* Laisser les autres assumer leurs erreurs, "Tu ne m'a pas écouté et ça ne marche pas, tant pis pour toi"
+* Ca peut être mal vécu par le reste de l'équipe, mais à un moment, on est pas là pour être gentil non plus
+====
 
 == Convaincre et persuader
 
+[NOTE.speaker]
+====
+* Comme on l'a vu :
+** communication avec beaucoup de pers. diff'
+** prise de décision et parfois être contre des choix
+** expliquer/débattre de solution technique
+
+* Apprendre à convaincre, travailler sa communication est importante et permet d'éviter les débats stériles et fait gagner du temps
+====
+
 == Curieux mais réaliste
+
+[NOTE.speaker]
+====
+* Il est normalement à l'état de l'art
+* Fait de la veille
+* Mais ce n'est pas forcement le cas de son équipe/client
+* Donc il doit être patient et accepté de travailler sur des sujets un peu vieux tout en essayant d'amener gentillement des nouvelles choses
+* On a un domaine qui change vite, et en 1 an, tout peut changer, il faut accepter de ne pas être toujours au top
+====
 
 == Propulseur de talents
 
-== Pour ne pas changer de poste alors ?
+[NOTE.speaker]
+====
+* Un truc fun mais chiant en même temps
+* D'un côté, faire monter en compétence des jeunes talents, c'est cool
+* De l'autre, subir une équipe d'enfant à base de "c'est pas ma faute", "j'ai pas envie de le faire" ou avec un comportement immature, c'est loin d'être fun
+* Cependant, c'est notre role, et clairement, la plupart du temps c'est hyper valorisant
+* Faudra bien du monde pour payer notre retraite
+====
+
+== Pourquoi ne pas changer de poste alors ?
+
+[NOTE.speaker]
+====
+* Avec tout ces désagrements, et ce travail qui parait si horrible et qui nous fait raler
+* Pour on ne change pas de poste ?
+====
+
+== Pourquoi ne pas chanre de poste alors ?
+
+[NOTE.speaker]
+====
+* parce qu'on aime notre job
+** Les défis, les juniors
+** Raler
+** On aime la rigueur, la compréhension globale d'un projet
+** Fait chier les autres
+** Trouver un équilibre satisfaisant entre les contraintes parfois pointus, les besoins parfois étranges et les équipes souvent moins experimentés que nous, pour obtenir une solution élégante et efficace
+====
