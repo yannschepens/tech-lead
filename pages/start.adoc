@@ -12,25 +12,33 @@ image::yann-black.png[]
 J'entends souvent que : slide suivante
 ====
 
-== Je rale
+== Je râle
 
 [NOTE.speaker]
 ====
 C'est vrai
 
-* le cas pour tous les tech lead (p-e importe comment on les appelle) ?
+* le cas pour tous les tech lead (peu importe comment on les appelle) ?
 * en tout cas, mes collègues ralent aussi.
+
 * Donc : slide suivante
 ====
 
-== Pourquoi ?
+== !
+
+image::thinking_monkey.png[]
 
 [NOTE.speaker]
 ====
 * Me suis posé la question.
+* Pourquoi, je rale, c'est pas agréable ?
+* Dans quels cas je rale ?
 * Les raisons ? Est-ce normal ?
-* Sous-nous des gens normaux ?
+* Sommes-nous des gens normaux ?
 * Pourquoi on s'inflige ça ?
+
+
+* Pour essayer de comprendre
+* Mais avant, prenons le temps de voir le tech dans son environnement naturel et quelques mises en situation
 ====
 
-== Quelques pistes

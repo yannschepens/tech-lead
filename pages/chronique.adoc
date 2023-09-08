@@ -1,25 +1,49 @@
 = Un râleur chronique
+:imagesdir: assets/default/images
+
+== !
+image::grognon.png[Grog,35%]
 
 [NOTE.speaker]
 ====
-Dans son environnement naturel :
-
-* place convoité par de nombreux jeunes
-* metier passionant avec du poids et des reponsabilites
-* Mais :
+* Il est perçu comme un raleur chronique
 ** trait de caractère mal perçu : il ralent
 ** tout le temps, à n'importe quel heure/endroit
 ** même tout seul (p-e même quand il dort)
 
 * Je le reconnais, c'est vrai
+* Transition : pourtant
+====
+
+== !
+
+image::haroldpain.png[]
+
+[NOTE.speaker]
+====
+Généralement,
+
+* place convoité par de nombreux jeunes
+* metier passionant avec du poids et des responsabilites
 
 * Quelques exemples de situation
 ====
 
-== On les écoute quand ça arrange
+== !
+
+[source, shell]
+----
+echo "Recommandation du tech lead" | tee /dev /cp /po
+
+echo "Recommandation couteuse du tech lead" | tee /dev /cp/null /po/null
+
+echo "Recommandation plus complexe du tech lead" | tee /dev/null /cp/null
+----
 
 [NOTE.speaker]
 ====
+On les écoute quand ça arrange
+
 Ex. :
 
 * Tests Unitaire infaisable car conception bancale
@@ -32,10 +56,14 @@ D’une part, on attend des Tech Leads qu’ils interviennent sur les projets po
 ====
 
 
-== Coup de gueule : incompat' et négligence
+== !
+
+image::example_superagent.png[Home,70%]
 
 [NOTE.speaker]
 ====
+Coup de gueule : incompat' et négligence
+
 Ex. :
 
 * Vieux projet, vieux framework maison (vous la sentez venir ?)
@@ -50,10 +78,14 @@ Ex. :
 On se retrouve à gérer des situations complexes et urgentes parcequ'on a pas suivi nos conseils, qu'on néglige l'entretien des outils tout en demandant à ce que ça fonctionne dans le temps.
 ====
 
-== L'imprévu
+== !
+
+image::travolta.png[]
 
 [NOTE.speaker]
 ====
+L'imprévu
+
 * Retour de jour ferié
 * Dev en galère pour une demo : plateforme de recette KO
 * Techno/environment/client inconnu/pas de doc
