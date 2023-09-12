@@ -92,15 +92,19 @@ L'imprévu
 * Analyse : VM full, car la maintenance des VM de recette c'est trop cher
 * Donc impossible de savoir quoi supprimer, reunion calé pour la lundi suivant
 
-* Oui, je vais ralé
+* Oui, je vais raler
 
 On fait appel à nous car de part notre experience on trouve souvent des solutions, même dans des contextes inconnues et surtout urgentes. On ramasse les pots cassés.
 ====
 
-== Indispensable
+== !
+
+image::wd40orducttape.png[WD40, 75%]
 
 [NOTE.speaker]
 ====
+Indispensable
+
 * Ok on rale, on demande du temps, on demande de l'argent
 * Malgré tout :
 ** On nous sollicite régulièrement

@@ -1,4 +1,5 @@
 = Ses problèmes
+:imagesdir: assets/default/images
 
 [NOTE.speaker]
 ====
@@ -7,10 +8,13 @@
 * Et vu ce qu'on a vu avant, oui, il a des problèmes
 ====
 
-== Le temps
+== !
+image::planning.png[Plan]
 
 [NOTE.speaker]
 ====
+Le temps
+
 * Notre problème préféré, et notre excuse aussi de temps
 * quarante douze truc à gérer en parallèle
 * les réunions
