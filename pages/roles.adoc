@@ -1,18 +1,21 @@
-= Son role
+= Le Tech Lead
 
 [NOTE.speaker]
 ====
 * Un peu de recul sur le role de Tech Lead
-* Role qui s'acquiert généralement après quelques années et de nombreuses experiences et une posture de sachant
+* Role qui s'acquiert généralement après quelques années, de nombreuses experiences et une posture de sachant
 * Pour comprendre ce côté shtroumph grincheux ou vieux sage sénile
 
 * C'est ma vision des choses
 ====
 
-== Garant de la solution technique
+== !
+image::qualitycontrol.png[]
 
 [NOTE.speaker]
 ====
+Garant de la solution technique
+
 * Comme CP sur le déroulement du projet
 * Tech lead garant : qualité, la robustesse, la résilience et la facilité de maintenance
 * Beaucoup de décision stratégique avec un impact fort
@@ -22,10 +25,14 @@
 * Transition : Mais pour ça, il faut former les équipes
 ====
 
-== Mentor
+== !
+
+image::kungfumaster.png[]
 
 [NOTE.speaker]
 ====
+Mentor
+
 * De part son experience et pour répondre aux besoins projets
 * Formation des équipes (bonnes pratiques, usages des outils, process, etc.)
 * Tout au long du projet
@@ -35,22 +42,30 @@
 * Transition : il ne communique pas qu'avec les techos
 ====
 
-== Vulgarisateur
+== !
+
+image::vulgarisation.png[]
 
 [NOTE.speaker]
 ====
+Vulgarisateur
+
 * Point de contact privilégié sur les aspects techniques
 * Communication et explication des choix avec toutes les parties prenantes (client, CP, manager, etc.)
-* Vulgarisation des concepts à différents niveau de compréhension
+* Vulgarisation des concepts à différents niveaux de compréhension
 * Peut être naturel ou demander un effort
 
 * Transition : Mentor, garant, vulgarisateur, c'est : slide suivante
 ====
 
-== Maillon indispensable
+== !
+
+image::techlead.png[]
 
 [NOTE.speaker]
 ====
+Maillon indispensable
+
 * Position centrale dans les discussions techniques (il devrait les avoir en tout cas)
 * Comme le PO côté fonctionnel, il doit comprendre les besoins et enjeux techniques
 * Mettre ce qu'il faut en place (doc, formation, remonté d'info, etc), pour que la réalisation dans son ensemble réponde à ce besoin
