@@ -32,14 +32,18 @@ Le temps
 * Transition : malgré ce "manque" de temps, un autre souci s'impose au tech lead
 ====
 
-== L'oracle
+== !
+
+image::42.png[]
 
 [NOTE.speaker]
 ====
+L'oracle
+
 * Le savoir : on doit TOUT savoir
 * Que ce soit pour une question ou un problème technique, nous devons tout savoir
 * C'est normal, le tech lead est le dernier ressort technique et celui qui prend les grandes décisions
-* Même si c'est pour renvoyer vers un confrère, "Je ne sais pas, débrouille toi", n'est pas acceptable
+* Même si c'est pour renvoyer vers un confrère, dire "Je ne sais pas, débrouille toi", n'est pas acceptable
 * Ex.: Projet web, lib de multithreading peu connu : process fantome qui impact les perf.
 ** Personne pour m'épauler, donc analyse approfondi de la lib pour comprendre et trouver une solution
 ** Equipe de dev trop jeune pour trouver, client ben c'est pas son job, hebergeur pareil, donc tu dois trouver une solution, pas le choix
@@ -49,10 +53,14 @@ Le temps
 * Transition : ce qui m'amène à un autre point
 ====
 
-== Liberté VS Stabilité
+== !
+
+image::gartner.png[]
 
 [NOTE.speaker]
 ====
+Liberté VS Stabilité
+
 * Le choix entre du fun et récent ; et du connu et stable
 * Soit je pars sur un truc qui me fait vibrer mais qui jeune et potentiellement long à prendre en main
 * Soit je pars un truc connu et stable mais que j'ai vu 40 fois
@@ -63,10 +71,14 @@ Le temps
 * Transition : En parlant de choix technique
 ====
 
-== Responsable des fondations
+== !
+
+image::halfbad.png[]
 
 [NOTE.speaker]
 ====
+Responsable des fondations
+
 * Quand il endosse la casquette d'architecte
 * Première brique technique, schémas, outils, approche, un truc kiffant quoi
 * On part d'une page blanche, état de l'art, (vous sentez les frissons du plaisir là ?)
@@ -82,10 +94,14 @@ Le temps
 * Transition : en parlant des équipes
 ====
 
-== Maintenir des standards elevés
+== !
+
+image::cleanarchi.png[CA, 80%]
 
 [NOTE.speaker]
 ====
+Maintenir des standards elevés
+
 * Le tech lead est reconnu/défini pour ses compétences
 * Niveau d'exigence/compétence elevé qu'il attend de son équipe
 * Défi parfois difficile pour les équipes
