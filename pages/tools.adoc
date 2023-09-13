@@ -7,20 +7,28 @@
 * Quels outils peut utiliser le tech lead pour attenuer tout ça ?
 ====
 
-== NON !
+== !
+
+image::marionon.png[]
 
 [NOTE.speaker]
 ====
+NON !
+
 * Premiere chose, dire non
 * Remettre en question la pertinence des demandes/méthodes, il a l'experience qui parle
 * Laisser les autres assumer leurs erreurs, "Tu ne m'a pas écouté et ça ne marche pas, tant pis pour toi"
 * Ca peut être mal vécu par le reste de l'équipe, mais à un moment, on est pas là pour être gentil non plus
 ====
 
-== Convaincre et persuader
+== !
+
+image::leodagan.png[]
 
 [NOTE.speaker]
 ====
+Convaincre et persuader
+
 * Comme on l'a vu :
 ** communication avec beaucoup de pers. diff'
 ** prise de décision et parfois être contre des choix
