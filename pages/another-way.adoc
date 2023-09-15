@@ -1,6 +1,16 @@
 = Moins raler ? Oui mais comment ?
 
-== Philippe Morisseau
+== !
+
+image::pmorisseau.png[P.M, 60%]
+
+[NOTE.speaker]
+====
+Philippe Morisseau
+
+Prez du Philippe en deux mots, grand speaker, m'a aider pour l'article et a donné son avis.
+Que j'ai trouvé très interessant, donc pour respecter son travail, je ne mettrai pas d'image sur ces paroles.
+====
 
 == Valoriser les talents
 
@@ -14,10 +24,12 @@ En tant que tech-lead, ma mission est de valoriser leurs talents et d’utiliser
 Ensuite, je répartis les responsabilités en accord avec leur personnalité. Ce n’est pas toujours facile. Il faut généralement plusieurs semaines pour que l’équipe fonctionne à son plein potentiel. Cependant, une fois ce stade atteint, le tech-lead peut compter sur chaque membre de l’équipe. »
 ====
 
-== Leadership collectif : s’inspirer du football pour favoriser l’implication et la responsabilité individuelle
+== Leadership collectif
 
 [NOTE.speaker]
 ====
+ : s’inspirer du football pour favoriser l’implication et la responsabilité individuelle
+
 « Ainsi, les membres de l’équipe se sentent impliqués car ils ont une responsabilité individuelle. Le système n’est plus hiérarchique mais collectif.
 
 Je fais souvent une analogie avec une équipe de football, où le tech-lead joue le rôle du capitaine. Le capitaine de l’équipe partage une vision et fait le relais avec le coach (le sélectionneur). Et ça s’arrête là. Les autres joueurs ont également leurs responsabilités.
@@ -33,4 +45,8 @@ Ces derniers doivent apporter leurs doivent apporter leurs compétences, tant te
 ====
 « Bien sûr, je me plains parfois aussi, car mon système n’est pas parfait. Mais maintenant, je râle lorsque je constate que le collectif qui m’est confié ne correspond pas aux enjeux (souvent un problème de compétences relationnelles).
 Je râle aussi beaucoup contre moi-même, mais ça c’est parce que je suis un taré/exigeant envers moi-même. »
+
+Fin.
+
+Merci Phlippe encore une fois
 ====

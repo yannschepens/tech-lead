@@ -37,10 +37,15 @@ Convaincre et persuader
 * Apprendre à convaincre, travailler sa communication est importante et permet d'éviter les débats stériles et fait gagner du temps
 ====
 
-== Curieux mais réaliste
+== !
+
+image::alpinist.png[]
 
 [NOTE.speaker]
 ====
+Curieux mais réaliste
+
+* Il doit emmener l'équipe avec lui, donc il doit être au top, même si l'équipe ne l'est pas
 * Il est normalement à l'état de l'art
 * Fait de la veille
 * Mais ce n'est pas forcement le cas de son équipe/client
@@ -48,10 +53,14 @@ Convaincre et persuader
 * On a un domaine qui change vite, et en 1 an, tout peut changer, il faut accepter de ne pas être toujours au top
 ====
 
-== Propulseur de talents
+== !
+
+image::climbers.png[]
 
 [NOTE.speaker]
 ====
+Propulseur de talents
+
 * Un truc fun mais chiant en même temps
 * D'un côté, faire monter en compétence des jeunes talents, c'est cool
 * De l'autre, subir une équipe d'enfant à base de "c'est pas ma faute", "j'ai pas envie de le faire" ou avec un comportement immature, c'est loin d'être fun
@@ -67,14 +76,18 @@ Convaincre et persuader
 * Pour on ne change pas de poste ?
 ====
 
-== Pourquoi ne pas chanre de poste alors ?
+== !
+
+image::heart.png[heart, 75%]
 
 [NOTE.speaker]
 ====
+Pourquoi ne pas changer de poste alors ?
+
 * parce qu'on aime notre job
-** Les défis, les juniors
+** Les défis, les juniors (qui sont mignons à rester bloqué dans vim)
 ** Raler
 ** On aime la rigueur, la compréhension globale d'un projet
-** Fait chier les autres
+** Faire chier les autres
 ** Trouver un équilibre satisfaisant entre les contraintes parfois pointus, les besoins parfois étranges et les équipes souvent moins experimentés que nous, pour obtenir une solution élégante et efficace
 ====
