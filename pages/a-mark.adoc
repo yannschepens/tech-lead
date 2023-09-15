@@ -33,10 +33,14 @@
 
 == " Ce n’est pas normal qu’on en soit encore à faire ça alors que je pourrais faire mieux ! "
 
-== Son plaisir coupable
+== !
+
+image::chocolate.png[]
 
 [NOTE.speaker]
 ====
+Son plaisir coupable
+
 * Il adore ça
 * Ca le rassure ? peut-être
 * Plaisir coupable ? peut-être
@@ -47,10 +51,14 @@
 * Transition : ce qui m'amène à ma conclusion
 ====
 
-== Humanisation du Tech Lead
+== !
+
+image::developer.png[]
 
 [NOTE.speaker]
 ====
+Humanisation du Tech Lead
+
 * Le tech lead est un être humain
 * Ce côté raleur (quand on est habitué), apporte un côté touchant du tech lead, même si ça peut être stressant pour les plus jeunes
 * "ce n'est pas comme ça qu'il faut faire", un classique
